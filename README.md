@@ -41,6 +41,7 @@ Profile -> Settings -> Repositories
 
 11. 만드는 중
 ![image](https://github.com/user-attachments/assets/068a7a2d-6bec-4753-90bb-1db56ddaa989)
+원래 try 안 쓰려했는데 갈수록 복잡해져서 하란대로 바꿈... 기능 추가완료
 
 12. 완료
 ![image](https://github.com/user-attachments/assets/5ec87388-c2df-49aa-8cca-f71dfe2dc3de)
@@ -61,14 +62,6 @@ delete까지 완벽 구현완료!
 이걸 원래는 그냥 쭉 구현하다가 원래를 지운 뒤 controller를 새로 만들어서 다시 코드를 넣는 그런 느낌
 그래서 처음부터 최종본과 같이 설계하고 만들었다면 더 편하지 않았을까 싶지만, 그냥 사소한 불평이고
 유익했습니다. 모두 TIL과 미프까지 화이팅 입니다 :)
-
-
-
-
-
-
-원래 try 안 쓰려했는데 갈수록 복잡해져서 하란대로 바꿈... 기능 추가완료
-12.완료
 
 
 
