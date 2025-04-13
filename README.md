@@ -1,7 +1,11 @@
 자바로 구현하는 할 일 관리 리스트 (1-2주차)
 
+
 1. 깃허브 설정 변경 완료!
 ![image](https://github.com/user-attachments/assets/acdd9a5d-6aae-4632-81d0-e0856b15cc31)
+
+
+
 Profile -> Settings -> Repositories
 (master를 main으로 변경 후 update)
 사실 이미 main으로 되어있어서 따로 변경할 것은 없었습니다
@@ -11,44 +15,80 @@ Profile -> Settings -> Repositories
 
 3. 깃 다운로드
 ![image](https://github.com/user-attachments/assets/4a3464c7-b90e-450a-8604-489d740a00d0)
+
+
+
 설정 따라 재설치했습니다
 
 4. 깃 세팅
 ![image](https://github.com/user-attachments/assets/4cc964e0-c113-4889-9535-9725ec86e10c)
 
+
+
+
 5. 디투코딩 볼드 설치
 ![image](https://github.com/user-attachments/assets/b6d277ac-c323-46f8-b871-5b9b0666051d)
+
+
+
 코딩에 편한 글씨체라고하네요.. 왜지? 일단 다운.
 
 6. 인텔리제이 설치
 ![image](https://github.com/user-attachments/assets/ed75e86b-32cc-4b63-9081-e54314f0ae92)
+
+
+
 에잉 난 이클립스가 있는데.. 새로 깔아야되네요 까비
 
 7. JDK 다운로드
 ![image](https://github.com/user-attachments/assets/039a1014-2399-46e5-b85d-b14a6b7eac21)
+
+
+
 이jdk가 뭔지는 나중에 알아봐야겠네요!(궁금)
 
 8. 설정 바꾸기
 ![image](https://github.com/user-attachments/assets/a82b8870-4ee0-4f1b-9348-4fcc50b0c202)
+
+
+
 이게 제일 머리 아팠습니다... 강의는 영어로 언어 설정+아마 구식 버전 이슈로 뭔가 다름... 그래도 완료했습니다
 
 9. 깃허브 연결
 ![image](https://github.com/user-attachments/assets/24b43903-e4b8-491a-a3a3-f4df91e61312)
+
+
+
 연결햇듭니다
 
 10. 만들기 시작
 ![image](https://github.com/user-attachments/assets/1c799294-0abb-41fa-a29a-ec2c7b29a818)
 
+
+
+
 11. 만드는 중
 ![image](https://github.com/user-attachments/assets/068a7a2d-6bec-4753-90bb-1db56ddaa989)
+
+
+
 원래 try 안 쓰려했는데 갈수록 복잡해져서 하란대로 바꿈... 기능 추가완료
 
 12. 완료
 ![image](https://github.com/user-attachments/assets/5ec87388-c2df-49aa-8cca-f71dfe2dc3de)
+
+
+
 네 이거 끝나고 저는 바로 친구 생일 축하해주러 감니다
 ![image](https://github.com/user-attachments/assets/60b14ffb-233f-4b40-a8ea-ce0331dd3024)
+
+
+
 modify에 약간 이슈가 있어서 수정하느라 1번 날아감.. but 해결 완
 ![image](https://github.com/user-attachments/assets/e5920133-23ea-4834-98bd-b7faac3c88e0)
+
+
+
 delete까지 완벽 구현완료!
 
 13. 강의 후기
